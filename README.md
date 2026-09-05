@@ -1,4 +1,4 @@
-## 📊 Análisis de clientes y patrones de uso — ConnectaTel
+## # 📊 Análisis de clientes y patrones de uso — ConnectaTel
 
 ## 📌 Descripción del proyecto
 
@@ -240,12 +240,12 @@ El análisis fue desarrollado utilizando:
 ## 📁 Estructura del repositorio
 
 ```text
-connectatel-analysis/
+Analysis-ConnectaTel/
 │
 ├── README.md
 │
-├──
-│   └── S7_Version_Estudiante_Project_ConnectaTel.ipynb
+├──/
+│   └──S7_Version_Estudiante_Project_ConnectaTel.ipynb
 │
 ├── data/
 │   ├── users.csv
@@ -253,6 +253,8 @@ connectatel-analysis/
 │
 └── images/
     └── visualizations/
+```
+
 
 ---
 
@@ -260,46 +262,19 @@ connectatel-analysis/
 
 ### Opción 1 — Google Colab
 
-1. Abrir el archivo `.ipynb`.
-2. Seleccionar **Open in Colab**.
-3. Ejecutar las celdas en orden.
-4. Verificar que los datasets se encuentren en la ruta utilizada por el notebook.
+Puedes abrir y ejecutar el notebook directamente en Google Colab:
 
-### Opción 2 — Jupyter Notebook
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iNzteNzXykydfm1g9YUHVDItzsmMFj6S?usp=sharing)
 
-Instalar las principales dependencias:
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-Posteriormente ejecutar:
-
-```bash
-jupyter notebook
-```
-
-Abrir el notebook:
-
-```text
-/S7_Version_Estudiante_Project_ConnectaTel.ipynb
-```
-
-y ejecutar las celdas en orden.
 
 ---
-
 
 ## 🔁 Reproducibilidad
 
 Para reproducir el análisis:
 
-1. Clonar o descargar este repositorio.
-2. Mantener los datasets en la carpeta correspondiente.
-3. Abrir el notebook.
-4. Instalar las librerías necesarias.
-5. Ejecutar las celdas en orden.
-6. Revisar las tablas, visualizaciones e insights generados.
+1. Abre S7_Version_Estudiante_Project_ConnectaTel.ipynb
+2. Ejecuta las celdas en orden
 
 ---
 
@@ -313,7 +288,6 @@ De esta manera, el análisis de datos puede utilizarse no solo para describir el
 
 ---
 
-
 ## 👩‍💻 Autora
 
 **Alejandra Aguirre**
@@ -324,10 +298,9 @@ Proyecto desarrollado como parte del proceso de formación en análisis de datos
 
 ---
 
-
 ## 🔗 Repositorio
 
 **GitHub:**
-`[(https://github.com/alejaagoez-rgb/Analysis-ConnectaTel.git)]`
+`[Ver proyecto en GitHub](https://github.com/alejaagoez-rgb/Analysis-ConnectaTel.git)`
 
 
