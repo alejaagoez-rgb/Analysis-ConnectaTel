@@ -1,4 +1,4 @@
-## # 📊 Análisis de clientes y patrones de uso — ConnectaTel
+## 📊 Análisis de clientes y patrones de uso — ConnectaTel
 
 ## 📌 Descripción del proyecto
 
