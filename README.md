@@ -1,4 +1,4 @@
-# # # 📊 Análisis de clientes y patrones de uso — ConnectaTel
+## 📊 Análisis de clientes y patrones de uso — ConnectaTel
 
 ## 📌 Descripción del proyecto
 
@@ -254,6 +254,8 @@ connectatel-analysis/
 └── images/
     └── visualizations/
 
+---
+
 ## ▶️ Cómo ejecutar el proyecto
 
 ### Opción 1 — Google Colab
@@ -285,6 +287,8 @@ Abrir el notebook:
 
 y ejecutar las celdas en orden.
 
+---
+
 
 ## 🔁 Reproducibilidad
 
@@ -297,6 +301,7 @@ Para reproducir el análisis:
 5. Ejecutar las celdas en orden.
 6. Revisar las tablas, visualizaciones e insights generados.
 
+---
 
 ## 📌 Conclusión ejecutiva
 
@@ -306,6 +311,8 @@ Los resultados sugieren que la compañía puede trabajar simultáneamente en tre
 
 De esta manera, el análisis de datos puede utilizarse no solo para describir el comportamiento actual de los clientes, sino también para apoyar decisiones relacionadas con **segmentación, diseño de planes, fidelización y crecimiento de ingresos**.
 
+---
+
 
 ## 👩‍💻 Autora
 
@@ -314,6 +321,8 @@ De esta manera, el análisis de datos puede utilizarse no solo para describir el
 Analista de Datos | Contadora Pública Especialista en Impuestos
 
 Proyecto desarrollado como parte del proceso de formación en análisis de datos.
+
+---
 
 
 ## 🔗 Repositorio
